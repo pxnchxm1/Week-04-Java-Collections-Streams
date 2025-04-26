@@ -1,0 +1,13 @@
+/CensorBadWords.class
+/ExtractCapitalized.class
+/ExtractDates.class
+/ExtractLinks.class
+/ExtractMails.class
+/IpAddress.class
+/Matcher.class
+/ReplaceSpaces.class
+/ValidHexCode.class
+/ValidLicencePlateNumber.class
+/ValidVisa.class
+/ValidateUserName.class
+/bin/
